@@ -1,0 +1,18 @@
+body{
+	background-color: crimson;
+}
+h1{
+	color: #999999;
+font-family:  sans-serif;
+}
+h4{
+	color: darkslategray;
+}
+#camera{
+	width: 500px;
+	height:400px;
+	border-color:gold;
+}
+img:hover{
+	border-radius:140px;
+}
